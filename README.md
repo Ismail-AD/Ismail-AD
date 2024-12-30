@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/muhammad-ismail-asim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ismail bin asim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-ismail-asim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ismail bin asim" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ismail_asim_024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ismail_asim_024" height="30" width="40" /></a>
 </p>
 
